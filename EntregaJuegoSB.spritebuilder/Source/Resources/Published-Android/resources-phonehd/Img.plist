@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Img/barrapan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{596, 87}, {128, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/bear.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 87}, {161, 156}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 156}}</string>
+			<key>sourceSize</key>
+			<string>{161, 156}</string>
+		</dict>
+		<key>Img/beararm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{953, 108}, {89, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 70}}</string>
+			<key>sourceSize</key>
+			<string>{89, 70}</string>
+		</dict>
+		<key>Img/bearnoarms.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 86}, {161, 156}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 156}}</string>
+			<key>sourceSize</key>
+			<string>{161, 156}</string>
+		</dict>
+		<key>Img/bollo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{856, 244}, {118, 86}}</string>
+			<key>offset</key>
+			<string>{1, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 15}, {118, 86}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/burger.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 163}, {128, 96}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 16}, {128, 96}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/cafe.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{261, 163}, {98, 126}}</string>
+			<key>offset</key>
+			<string>{-2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13, 1}, {98, 126}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/catapult.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {430, 160}}</string>
+			<key>offset</key>
+			<string>{0, -13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 25}, {430, 160}}</string>
+			<key>sourceSize</key>
+			<string>{430, 185}</string>
+		</dict>
+		<key>Img/catapultarm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 1}, {84, 355}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 355}}</string>
+			<key>sourceSize</key>
+			<string>{84, 355}</string>
+		</dict>
+		<key>Img/galleta.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{596, 217}, {128, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/longblock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 57}, {183, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {183, 27}}</string>
+			<key>sourceSize</key>
+			<string>{183, 27}</string>
+		</dict>
+		<key>Img/magda.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 163}, {97, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 0}, {97, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/squareblock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{975, 57}, {49, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {49, 48}}</string>
+			<key>sourceSize</key>
+			<string>{49, 48}</string>
+		</dict>
+		<key>Img/tallblock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{726, 87}, {47, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {47, 95}}</string>
+			<key>sourceSize</key>
+			<string>{47, 95}</string>
+		</dict>
+		<key>Img/taperedblock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{790, 1}, {227, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {227, 54}}</string>
+			<key>sourceSize</key>
+			<string>{227, 54}</string>
+		</dict>
+		<key>Img/tarta.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{726, 244}, {112, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 0}, {112, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>Img/tostadora.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{953, 199}, {46, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {46, 48}}</string>
+			<key>sourceSize</key>
+			<string>{48, 48}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>Img.png</string>
+	</dict>
+</dict>
+</plist>
